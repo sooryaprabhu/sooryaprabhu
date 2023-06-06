@@ -1,3 +1,4 @@
+[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-d2f8866bb0.webp)](https://github.com/sooryaprabhu)
 <h1 align="center">Hi 👋, I'm Soorya Prabhu</h1>
 <h3 align="center">An AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
