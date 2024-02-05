@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Soorya Prabhu</h1>
 <h3 align="center">An AI Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2020/05/de.gif">
+<img align="right" alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1WDr86teptYhfTuMqSmeq1&ust=1707221138914000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiohL6UlIQDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sooryaprabhu&label=Profile%20views&color=0e75b6&style=flat" alt="sooryaprabhu" /> </p>
 
