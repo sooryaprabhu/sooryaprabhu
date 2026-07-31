@@ -2,8 +2,12 @@
 
 # 👋 Hi, I'm Soorya Prabhu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Junior+AI+Engineer;Building+LLMs+%7C+AI+Agents+%7C+RAG;Learning+Something+New+Every+Day;Future+LLM+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=color=color=00FF99&center=true&vCenter=true&width=800&lines=Junior+AI+Engineer;Building+LLMs+%7C+AI+Agents+%7C+RAG;Learning+Something+New+Every+Day;Future+LLM+Engineer" />
 
+---
+
+
+instead of this oen write Exactly like Soorya prabhu and AI Engineer in that image ...same like that in the image
 ---
 
 ### 🧠 *Building AI systems that reason, retrieve knowledge, and collaborate.*
