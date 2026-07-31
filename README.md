@@ -9,7 +9,7 @@
 ### 🧠 *Building AI systems that reason, retrieve knowledge, and collaborate.*
 
 <p>
-<img src="https://img.shields.io/badge/Junior-AI+Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junior-AI Engineer-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLM-Enthusiast-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence-red?style=for-the-badge"/>
