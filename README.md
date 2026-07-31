@@ -1,38 +1,205 @@
-<h1 align="center">Soorya Prabhu</h1>
-<h3 align="center">AI / ML Engineer · London, UK</h3>
+<div align="center">
 
-<p align="center">
-<a href="https://linkedin.com/in/soorya-prabhu-635673243">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sooryaprabhu14122@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=sooryaprabhu&style=flat-square&color=0077B5"/>
+# 👋 Hi, I'm Soorya Prabhu
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+in+Progress;Building+LLMs+%7C+AI+Agents+%7C+RAG;Learning+Something+New+Every+Day;Future+LLM+Engineer" />
+
+---
+
+### 🧠 *Building AI systems that reason, retrieve knowledge, and collaborate.*
+
+<p>
+<img src="https://img.shields.io/badge/AI-Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Enthusiast-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence-red?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Soorya Prabhu
+
+Education:
+  MSc Artificial Intelligence
+  Brunel University London
+
+Current Goal:
+  Become a World-Class AI Engineer
+
+Current Focus:
+  - Large Language Models
+  - Agentic AI
+  - Retrieval-Augmented Generation
+  - MCP
+  - A2A
+  - LangGraph
+  - MLOps
+
+Status:
+  Learning every single day 🚀
+```
+
+---
+
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,r,mysql"/>
+
+</p>
+
+### AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+- LangChain
+- Hugging Face
+- OpenAI API
+- FAISS
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+### Cloud & Deployment
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,flask"/>
+
 </p>
 
 ---
 
-MSc Artificial Intelligence · Brunel University London
+# 🚀 Featured Projects
 
-Building production-ready AI systems — from end-to-end ML pipelines to RAG systems and autonomous AI agents. Passionate about turning AI research into real working products.
+## 📄 RAG PDF Chatbot
+
+```text
+Tech Stack
+
+✔ LangChain
+✔ OpenAI GPT
+✔ FAISS
+✔ Python
+
+Features
+
+✔ Upload PDFs
+✔ Semantic Search
+✔ AI Question Answering
+```
 
 ---
 
-## Projects
+## 🧠 Face Mask Detection
 
-**[House Price Prediction Pipeline](https://github.com/sooryaprabhu/house-price-ml-pipeline)**
-End-to-end ML pipeline with Random Forest (R²=0.80), FastAPI, Docker, MLflow and CI/CD. Integrated OpenAI GPT-4o-mini for Explainable AI in compliance with UK GDPR Article 22.
-`Python` `scikit-learn` `FastAPI` `Docker` `OpenAI` `MLflow` `GitHub Actions`
-
-**[RAG PDF Chatbot](https://github.com/sooryaprabhu/rag-pdf-chatbot)**
-Upload any PDF and ask natural language questions. Full RAG pipeline using LangChain, FAISS vector database and OpenAI GPT-4o-mini, served via FastAPI with Docker and CI/CD.
-`LangChain` `FAISS` `OpenAI` `FastAPI` `Docker` `GitHub Actions`
-
-**[AI Research Agent](https://github.com/sooryaprabhu/ai-research-agent)**
-Autonomous AI agent using LangChain ReAct pattern. Searches the web in real-time, performs calculations and answers questions via Streamlit UI and FastAPI REST API.
-`LangChain` `OpenAI` `DuckDuckGo` `Streamlit` `FastAPI` `Docker`
+```text
+TensorFlow
+OpenCV
+CNN
+Real-time Detection
+```
 
 ---
 
-## Skills
+## 😊 Sentiment Analysis
+
+```text
+TF-IDF
+Machine Learning
+Natural Language Processing
+```
+
+---
+
+# 🌱 Currently Learning
+
+```text
+████████████████████░░░ LLM Engineering
+
+███████████████████░░░░ AI Agents
+
+█████████████████░░░░░░ LangGraph
+
+████████████████░░░░░░░ MCP
+
+███████████████░░░░░░░░ A2A
+
+██████████████░░░░░░░░░ MLOps
+
+█████████████░░░░░░░░░░ AI Infrastructure
+
+```
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Don't just use AI. Understand how it's works, build it, improve it, and push its limits."**
+
+---
+
+# 🌍 Connect With Me
+
+<p>
+
+📧 **Email:** sooryaprabhu14122@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+
+💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+*"Learning today. Building tomorrow."*
+
+</div>
