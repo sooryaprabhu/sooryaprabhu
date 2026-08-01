@@ -2,28 +2,24 @@
 
 # 👋 Hi, I'm Soorya Prabhu
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=color=color=00FF41&center=true&vCenter=true&width=800&lines=Junior+AI+Engineer;Building+LLMs+%7C+AI+Agents+%7C+RAG;Learning+Something+New+Every+Day;Future+LLM+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=4B5320&center=true&vCenter=true&width=800&lines=Junior+AI+Engineer;Building+LLMs+%7C+AI+Agents+%7C+RAG;Future+LLM+Engineer" />
 
----
-
-
-instead of this oen write Exactly like Soorya prabhu and AI Engineer in that image ...same like that in the image
 ---
 
 ### 🧠 *Building AI systems that reason, retrieve knowledge, and collaborate.*
 
 <p>
-<img src="https://img.shields.io/badge/Junior-AI Engineer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM-Enthusiast-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Learner-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MSc-Artificial%20Intelligence-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Junior%20AI%20Engineer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Enthusiast-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Learner-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MSc%20Artificial%20Intelligence-red?style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
 I'm Soorya Prabhu, a Junior AI Engineer based in London with an MSc in Artificial Intelligence from Brunel University. I'm passionate about building AI systems that actually work in the real world — not just in notebooks.
 
@@ -63,7 +59,7 @@ Currently working towards becoming a world-class AI Engineer — one project at 
 
 ---
 
-# 🚀 Featured Projects
+# 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
 ## 🏠 House Price Prediction ML Pipeline
 
@@ -123,7 +119,7 @@ Features
 
 ---
 
-# 🌱 Currently Learning
+# 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
 
 ```text
 ████████████████████░░░ LLM Engineering
@@ -143,7 +139,7 @@ Features
 
 ---
 
-# 📈 GitHub Statistics
+# 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sooryaprabhu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -158,7 +154,7 @@ Features
 
 ---
 
-# 🔥 Contribution Graph
+# 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙂𝙧𝙖𝙥𝙝
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooryaprabhu&theme=tokyo-night"/>
@@ -166,13 +162,13 @@ Features
 
 ---
 
-# 💡 Quote
+# 𝙌𝙪𝙤𝙩𝙚
 
 > **"Don't just use AI. Understand how it works, build it, improve it, and push its limits."**
 
 ---
 
-# 🌍 Connect With Me
+# 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
 
 📧 **Email:** sooryaprabhu14122@gmail.com
 
